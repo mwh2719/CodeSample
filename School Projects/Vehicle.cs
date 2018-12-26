@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
+This was the main movement class for a project I completed during my 2018 fall semester
+It held the movement methods for the Autonomous Agents in the game
+It was also the base class that all the other vehicles in the game inherited from
+The game was a mock up of Humans vs. Zombies
+It included humans wandering until threatened, zombies chasing humans, humans evading zomies, as well as some other movement methods
+*/
+
+/*
  *Class to hold all the different movment methods
  * Abstract, humans and zombies inherit from it
  * Keeps GameObjects from falling off the terrian
