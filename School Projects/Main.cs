@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+This is the main class from a school project I completed during my 2018 fall semster
+The project was to use Unity to re-create the old Asteriod game
+We were not allowed to use any of Unity's built in tools for movement, collisions, or tasks such as that
+*/
+
+
 /*this it the main class
 all the methods are called here and it is attached to the scene manager
 it checks for collisions
